@@ -13,9 +13,13 @@ Passionate about creating platforms that make a positive impact, like Furcode, a
 
 ### 🛠 Technical Skills
 
-Backend Development
+#### Backend Development
 
-Java Spring Boot NestJS Node.js
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+
 
 Frontend Development
 
