@@ -52,7 +52,7 @@ I always enjoyed to challenge myself like went abroad from Portugal to work and 
 
 ### 🔗 Find me here:
 
-Linkedin
+- [LinkedIn](https://www.linkedin.com/in/ruitiago23/)
 
 
 Thank you for visiting my profile! 😊
