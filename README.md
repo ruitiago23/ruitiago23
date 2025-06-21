@@ -34,7 +34,7 @@ I’m an aspiring full-stack developer with a passion for learning and solving p
 ---
 
 ### 📚 Education:
-- Software Bootcamp - Mindera Education (2024)
+- Full-stack Bootcamp - Mindera Education (2024)
 
 ---
 
